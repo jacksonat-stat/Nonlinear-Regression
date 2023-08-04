@@ -24,7 +24,7 @@ nls(
 # Number of iterations to convergence: 9 
 # Achieved convergence tolerance: 4.767e-06
 
-##Model##
+##Model###
 model<-expression(a+(.49-a)*exp(-B*(x - 8)))
 model
 
